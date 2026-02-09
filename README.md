@@ -48,7 +48,7 @@ I completed all three tracks early, though we reviewed only one per person. Feed
   <source src="Practice Piece 1 - Village in the hills.m4a" type="audio/mp4">
 </audio>
 <audio controls style="width: 100%;">
-  <source src="Practice Piece 2 - Death, Doom, or UTTER DESTRUCTION??? (original).m4a" type="audio/mp4">
+  <source src="Practice Piece 2 - Death, Doom, or UTTER DESTRUCTION.m4a" type="audio/mp4">
 </audio>
 <audio controls style="width: 100%;">
   <source src="Practice Piece 3 - Fairy Lake Ruins.m4a" type="audio/mp4">
@@ -73,7 +73,7 @@ Patterns emerged among the reviews from outside the audio team - some feedback w
   <source src="Motif Piece 2 - See You Soon.m4a" type="audio/mp4">
 </audio>
 <audio controls style="width: 100%;">
-  <source src="Motif Piece 3 - What's That Fog On Fairy Lake?.m4a" type="audio/mp4">
+  <source src="Motif Piece 3 - What's That Fog On Fairy Lake.m4a" type="audio/mp4">
 </audio>
 
 ---
