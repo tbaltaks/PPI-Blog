@@ -11,7 +11,7 @@
 
 This portfolio documents my learning, contributions, and reflections across the early development sprints, with a focus on **audio creation, technical implementation, collaboration, and professional growth**.
 
-*(External project card: [](https://terminalhorizon.carrd.co))*
+*(External project card: [https://terminalhorizon.carrd.co](https://terminalhorizon.carrd.co))*
 
 ---
 
