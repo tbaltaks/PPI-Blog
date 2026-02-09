@@ -1,0 +1,107 @@
+
+**Role:** Audio / Music / Technical Audio  
+**Project Type:** Team-based game development
+
+---
+
+## Project Overview
+
+**Terminal Horizon** is a turn-based, grid-based cyberpunk roguelite where players control a team of three 'awakened simulants' attempting to escape a city citadel to see the sky before their time runs out.
+
+This portfolio documents my learning, contributions, and reflections across the early development sprints, with a focus on **audio creation, technical implementation, collaboration, and professional growth**.
+
+*(External project card: https://terminalhorizon.carrd.co)*
+
+---
+
+## Sprint 0 (Aug 10 - Aug 23)
+### Induction & Prototyping
+
+**[Aug 10] Induction**
+The first day set the tone for the entire project. After meeting the team and reconnecting with familiar faces, the induction covered Playmakers’ structure, tools, pipelines, and expectations. The second half of the day shifted quickly into practice: temporary teams were formed and tasked with designing a prototype game under specific constraints.
+
+Beyond the formal content, this day was valuable for networking and early relationship-building. Speaking directly with producers gave me a clearer sense of how decisions are made and what lies ahead. I made a conscious effort to engage widely and start building trust early - a decision I aimed to maintain throughout the project.
+
+**[Aug 23] Prototype Presentations**  
+Our temporary team pitched a bowling-inspired roguelite and presented a small playable demo. My contributions spanned multiple roles: music and sound, player systems programming (event bus and controller), writing parts of the GDD and pitch, and informal team management.
+
+Managing people proved more complex than managing systems. Identifying who needed direction, information, or space required constant adjustment, but I enjoyed navigating that web. The experience, as it was intended, felt like a compressed version of a real development cycle, offering upfront, practical insight and preparing us for the start of the true project.
+
+Only three of our six presented live, but the pitch went smoothly. A teammate overcame significant stage fright, which I found genuinely impressive. Our concept performed strongly in the poll, finishing close behind a prototype pitched by a more experienced developer and his team. Even though we placed second, the process itself felt like a win.
+
+---
+
+## Sprint 1 (Aug 24 - Sep 6)
+### Game Selection & Skill Building
+
+**[Aug 24] Game Chosen / First Audio Meeting**  
+Although our prototype was popular, the steering committee went with the poll number one - the cyberpunk roguelite that would become *Terminal Horizon*. A standout moment was how quickly competition turned into shared excitement; regardless of outcome, the chosen game became everyone’s project.
+
+The audio team formed: Quinn (composition and mastering), Chris (sound design), Nick (team lead) and myself (composition and audio implementation). Our first task focused on composition upskilling - recreating three reference tracks to match a predefined musical character. The exercise shed light on some kinks and rough spots in both areas of skill and communication for each of us, and adapting to that in stride was rewarding and brought the team closer. 
+
+**[Aug 31] Halfway Review**  
+I completed all three tracks early, though we reviewed only one per person. Feedback was largely positive, though Nick offered a critique I disagreed with - a small moment that foreshadowed future discussions around taste, intent, and justification.
+
+*(Practice pieces: village theme, battle theme, eerie theme)*
+![[Practice Piece 1 - Village in the hills.m4a]]
+![[Practice Piece 2 - Death, Doom, or UTTER DESTRUCTION??? (original).m4a]]
+![[Practice Piece 3 - Fairy Lake Ruins.m4a]]
+
+---
+
+## Sprint 2 (Sep 7 - Sep 20)
+### Feedback as a Two-Way Skill
+
+**[Sep 7] Team Meeting**  
+Through more exercises and collaborative efforts towards developing workflows and documentation, we honed our production line. This marked a shift: I began giving as much feedback as I received. Nick pushed us to explain *why* we made certain choices, not just present results. Defending my decisions respectfully, rather than defaulting to agreement, felt like a step into professional collaboration.
+
+**[Sep 14] Halfway Review**  
+Patterns emerged among the reviews from outside the audio team - some feedback was actionable; some was purely subjective. I began mentally categorising notes into *must-change*, *worth-trying*, and *leave-for-now*. This kept iteration efficient and confidences intact. I also paid closer attention to how others reacted to critique, adjusting my tone and language accordingly as some would take better to bluntness and others a gentle suggestion.
+
+*(Motivic exercise pieces)*
+![[Motif Piece 1 - Open the Gates.m4a]]
+![[Motif Piece 2 - See You Soon.m4a]]
+![[Motif Piece 3 - What's That Fog On Fairy Lake?.m4a]]
+
+---
+
+## Sprint 3 (Sep 21 - Oct 4)
+### Writing for Systems, Not Ego
+
+**[Sep 21] Team Meeting**  
+Tasks moved from imitation to functionality: seamless looping, layering, and avoiding listener fatigue over long play sessions. My approach shifted toward systems thinking. We began deeper discussions around FMOD, where my programming and composition backgrounds intersected. I contributed ideas around event structure, parameters, and reactive music design.
+
+**[Sep 28] Halfway Review**  
+One track received tougher feedback than expected, and my initial response was frustration. After reflection, I recognised the distinction between a piece being *good* and being *right* for the project. I reworked the idea, preserving what served the game and discarding what didn’t. The result was leaner, clearer, and more functional.
+
+*(Track in question:)*
+![[The Menagerie Draft.mp3]]
+
+---
+
+## Sprint 4 (Oct 5 - Oct 18)
+### Vertical Slice - Part 1
+
+**[Oct 5] Team Meeting**  
+With the vertical slice underway, audio gained concrete scope and dependencies. I planned FMOD structure early (naming conventions, hierarchies, and parameter needs) to minimise friction later. I also increased communication with programmers outside the audio team, translating musical ideas into technical requirements via a shared asset sheet document.
+
+**[Oct 12] Halfway Review**  
+Time constraints forced prioritisation. Rather than spreading effort thin, I focused on the moments that mattered most. I spent significant time debugging FMOD and resolving integration issues. Acting as a creative–technical bridge reduced confusion and sped up progress, reinforcing my confidence in this hybrid role (it's also extremely fun!).
+
+*(Adaptive music in FMOD:)*
+![[FMOD Intensity Stems Demo.mov]]
+![[FMOD Adapdive Combat Music Demo.mov]]
+
+---
+
+## Sprint 5 (Oct 19 - Nov 1)
+### Vertical Slice - Part 2
+
+**[Oct 19] In-Person Team Meeting**  
+Meeting in person was a huge change of pace from working remotely: faster decisions, better energy, and more natural feedback. Reviewing the near-final vertical slice, the project finally felt like it has legs from an audio perspective, and getting to see all the different facets integrated together benefitted everyone immensely - another game dev lesson I will certainly keep with me.
+
+This sprint clarified my professional identity. I’m not just there to contribute audio assets - it's a role which requires collaboration, problem-solving, and connecting creative intent with technical execution. Across the project, I’ve grown more comfortable handling feedback, navigating creative disagreements, and working within a multidisciplinary team. The experience has been demanding at times, but overwhelmingly valuable, leaving me far better prepared for professional game development. 
+
+*(More pieces from development: district two combat, main theme)*
+![[The Shunt Draft.mp3]]
+![[The Starless Sky.mp3]]
