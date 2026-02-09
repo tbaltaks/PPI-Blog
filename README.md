@@ -1,5 +1,3 @@
-# Project Portfolio: Terminal Horizon
-
 **Role:** Audio / Music / Technical Audio  
 **Project Type:** Team-based game development
 
